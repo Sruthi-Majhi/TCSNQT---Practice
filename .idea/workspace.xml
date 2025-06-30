@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f746fd-9450-4711-a2fa-4b6b58c8ae26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TCSNQT.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CamelCaseConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReboundHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TargetSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +38,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CamelCaseConversion.executor": "Run",
+    "Application.GCD.executor": "Run",
     "Application.GreaterElement.executor": "Run",
+    "Application.NOperations.executor": "Run",
     "Application.ProductOfDigits.executor": "Run",
+    "Application.ReboundHeight.executor": "Run",
+    "Application.TargetSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
