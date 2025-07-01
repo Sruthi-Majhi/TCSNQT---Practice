@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6f746fd-9450-4711-a2fa-4b6b58c8ae26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CamelCaseConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReboundHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaximumCandies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RhymingWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SpecialSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +40,13 @@
     "Application.CamelCaseConversion.executor": "Run",
     "Application.GCD.executor": "Run",
     "Application.GreaterElement.executor": "Run",
+    "Application.MaximumCandies.executor": "Run",
     "Application.NOperations.executor": "Run",
     "Application.ProductOfDigits.executor": "Run",
     "Application.ReboundHeight.executor": "Run",
+    "Application.ReverseSum.executor": "Run",
+    "Application.RhymingWords.executor": "Run",
+    "Application.SpecialSeries.executor": "Run",
     "Application.TargetSum.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
